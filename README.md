@@ -19,7 +19,7 @@ The goal is to provide a robust classification system that can be applied to Aut
 * **Scikit-learn** (Metrics and Evaluation)
 
 ## Dataset
-The project uses the [GTSRB Dataset](https://benchmark.ini.rub.de/gtsrb_dataset.html), which consists of over 50,000 images of traffic signs across 43 categories. Images are resized to 32x32 pixels for processing.
+The project uses the [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign), which consists of over 50,000 images of traffic signs across 43 categories. Images are resized to 32x32 pixels for processing.
 
 ## Performance & Results
 The model achieves high accuracy on the validation set. Below are the key performance indicators:
@@ -35,8 +35,3 @@ The model achieves high accuracy on the validation set. Below are the key perfor
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 *Note: The script generates a heatmap for the top 15 most frequent classes.*
-
-## How to Run
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/TU_USUARIO/traffic-sign-classification-cnn.git](https://github.com/TU_USUARIO/traffic-sign-classification-cnn.git)
