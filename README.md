@@ -1,4 +1,4 @@
-# Traffic Sign Recognition System
+# Traffic Sign Classification System
 
 ## Overview
 This project implements a Deep Learning system for classifying traffic signs using a Convolutional Neural Network (CNN). The model is trained on the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset, which contains 43 different classes of traffic signs.
