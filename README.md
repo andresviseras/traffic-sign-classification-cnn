@@ -25,13 +25,13 @@ The project uses the [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeo
 The model achieves high accuracy on the validation set. Below are the key performance indicators:
 
 ### Learning Curves
-![Learning Curves](learning_curves.png)
+![Learning Curves](assets/learning_curves.png)
 *Note: Run the script to generate and save your learning curves plot.*
 
 ### Sample Predictions
-![Predictions](predictions.png)
+![Predictions](assets/predictions.png)
 *Note: Run the script to see sample predictions with color-coded labels (Green for correct, Red for incorrect).*
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix.png)
 *Note: The script generates a heatmap for the top 15 most frequent classes.*
